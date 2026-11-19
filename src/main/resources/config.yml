@@ -1,0 +1,7 @@
+# BoatBuff - smooth boat step-up settings
+enabled: true
+max-step-height: 1.0
+step-up-velocity: 0.13
+minimum-horizontal-speed: 0.035
+look-ahead: 0.78
+require-headroom: true
