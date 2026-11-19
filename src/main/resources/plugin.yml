@@ -1,0 +1,6 @@
+name: BoatBuff
+version: 1.0.0
+main: com.nexussmp.boatbuff.BoatBuff
+api-version: '1.21'
+author: NexusSMP
+description: Smoothly lets boats climb one-block obstacles without teleporting.
